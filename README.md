@@ -1,8 +1,8 @@
 # Single Page Web App using pure HTML5, CSS, JS
 
-Completed Project: [View Web Site](https://lpm0073.github.io/jhu-course4-mod5-solution/)
+Completed Project: [View Web Site](https://saheelkumar2410.github.io/mod5-solution/index.html)
 
-Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
+Coursera course: [HTML, CSS, and Javascript for Web Developers]
 
 Last assignment and you are DONE!
 
